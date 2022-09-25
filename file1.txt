@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-changes made in main branch
-=======
 changes made in panda branch
->>>>>>> panda
